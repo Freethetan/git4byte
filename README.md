@@ -1,7 +1,6 @@
 # git4byte
 
 
-THis is test
-
+Could it be better?
 
 Test
